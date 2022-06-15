@@ -188,4 +188,5 @@ body {
     font-size: 12px;
     display: flex;
     justify-content: center;
+    margin-top: auto;
 }
